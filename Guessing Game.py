@@ -29,6 +29,7 @@ def main():
 
     if validate == 'y':
         print('Ez Pz only took me',computerTrys,' times.')
+        sys.exit()
                      
         
 main()
