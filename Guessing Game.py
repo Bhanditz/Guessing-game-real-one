@@ -31,6 +31,4 @@ def main():
         print('Ez Pz only took me',computerTrys,' times.')
                      
         
-
-
 main()
